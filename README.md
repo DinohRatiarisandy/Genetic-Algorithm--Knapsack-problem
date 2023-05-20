@@ -1,2 +1,1 @@
-# Genetic-Algorithm--Knapsack-problem
- Problème du sac à dos résolu par l'algorithme génétique.
+Le problème du sac-à-dos est un défi d'optimisation où l'on doit sélectionner les objets les plus précieux à mettre dans un sac, tout en respectant sa capacité maximale. L'algorithme génétique est une approche puissante pour résoudre ce problème en utilisant des techniques d'évolution et de sélection naturelle. Il génère une population d'individus avec des caractéristiques différentes, les évalue en fonction de leur adaptation au problème, puis les fait évoluer au fil des générations pour atteindre la solution optimale.
